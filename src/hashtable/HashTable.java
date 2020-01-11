@@ -75,6 +75,7 @@ public class HashTable {
         hashTable.insertHash(6);
 
         System.out.println("cout:" + hashTable.count);
+		System.out.println("cout:" + hashTable.count);
 
 
     }
